@@ -581,7 +581,6 @@ section {
 
 .banner {
   color: #fff;
-  background-color: var(--color-primary--light);
 }
 
 .banner .container {
@@ -597,7 +596,6 @@ section {
 .banner--hero {
   background-image: url("../images/hero.jpg");
   background-position: center;
-  background-blend-mode: multiply;
 }
 
 .banner--callout {
